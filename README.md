@@ -1,7 +1,7 @@
 # hurdle-2
 Rate-based analysis of ecological factors linking rinderpest seroprevalence and tree density on the Serengeti plain - accepted solution to Ph 11 2019 Hurdle 2.
 
-Code overview:
+Code Overview:
   - Main runs the fire simulator three times for each of 45 uniformly spaced grass densities, and prints the
   average percent of the grid burned. The result was used to construct Figure 6 in the Report.
   - FireSimulator represents the object that handles a fire simulation.
