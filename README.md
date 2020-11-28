@@ -1,7 +1,5 @@
 # hurdle-2
-Rate-based analysis of ecological factors linking rinderpest seroprevalence and tree density on the Serengeti plain - Accepted solution to Ph 11 2019 Hurdle 2.
-
-See the report PDF for the full project, as well as a more detailed explanation of the programs and their context.
+Rate-based analysis of ecological factors linking rinderpest seroprevalence and tree density on the Serengeti plain - accepted solution to Ph 11 2019 Hurdle 2.
 
 Code overview:
   - Main runs the fire simulator three times for each of 45 uniformly spaced grass densities, and prints the
@@ -13,3 +11,5 @@ Code overview:
   - PopulationPrinter is essentially a script that performs a step towards aggregating the wildebeest population 
   vs time and fire frequency vs wildebeest population predictions into the fire frequency vs time prediction
   presented in the Conclusions in the Report.
+
+See the report PDF for the full project, as well as a more detailed explanation of the programs and their context.
