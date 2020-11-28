@@ -1,5 +1,5 @@
 # hurdle-2
-Rate-based analysis of ecological factors linking rinderpest seroprevalence and tree density on the Serengeti plain - accepted solution to Ph 11 2019 Hurdle 2.
+Rate-based analysis of ecological factors linking rinderpest seroprevalence and tree density on the Serengeti plain - Accepted solution to Ph 11 2019 Hurdle 2.
 
 See the report PDF for the full project, as well as a more detailed explanation of the programs and their context.
 
